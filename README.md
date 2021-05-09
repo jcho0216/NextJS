@@ -1,1 +1,1 @@
-NextJS
+NextJS Project
